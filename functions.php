@@ -1,0 +1,2 @@
+<?php
+// Classic theme bootstrap.
